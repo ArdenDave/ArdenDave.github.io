@@ -1,0 +1,16 @@
+body {
+    background-color: lightblue;
+}
+
+td {
+    padding-left: 15px;
+    padding-right: 20px;
+    text-align: left;
+    vertical-align: middle;
+    border-bottom: 1px solid #ddd;
+}
+
+h3 {
+    color: navy;
+    font-family: Verdana;
+}
