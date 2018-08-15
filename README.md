@@ -1,1 +1,0 @@
-# summerizes.github.io
