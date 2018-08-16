@@ -80,3 +80,20 @@ body {
 .details {
 	font-size: 100%;
 }
+
+#return {
+	margin-right: 87%;
+	margin-top: 0%;
+	color: white;
+	background-color: black;
+	border-color: white;
+	border-width: 10px 15px 7px 7px;
+	transform: skewx(-20deg);
+	transform: skewy(2deg);
+}
+
+#return:hover {
+	transform: scale(1.2);
+	transition: 1.75s;
+	font-size: 100%;
+}
